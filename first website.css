@@ -1,0 +1,75 @@
+.orange{
+    color: orange;
+}
+.creative:hover{
+    color: yellow;
+    font-size: 50px;
+
+}
+.button-color{
+    color: aliceblue;
+    background-color: red;
+    border-radius: 5px;
+}
+.color{
+    color: aliceblue;
+}
+.width{
+    width: 40%;
+    margin: 3%;
+    padding: 2%;
+    float: left;
+}
+.widthed img{
+    width: 35%;
+}
+.backimg{
+    background-image: url(pic/happy.jpg);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.widthed{
+    width: 40%;
+    margin: 3%;
+    padding: 2%;
+    float: left;
+}
+#new{
+    margin: 5%;
+    padding: 1%;
+}
+.picture{
+    background-image: url(pic/happy.jpg);
+    background-repeat: no-repeat;
+}
+.nayem{
+    width: 35%;
+    margin: 3%;
+    padding: 2%;
+    float: left;
+    border: 1px solid red;
+    background-color: wheat;
+    box-shadow: 10px 10px 5px black;
+
+}
+.wid{
+    width: 40%;
+    margin: 3%;
+    padding: 2%;
+    float: left;
+
+}
+.wid:hover {
+    color: hotpink;
+  }
+
+  input:focus {
+    background-color: yellow;
+    font-size: 30px;
+    font-style: italic;
+  }
+
+
+
